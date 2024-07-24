@@ -1,2 +1,2 @@
 # cypress-2
-CI/CD
+sample CI/CD pipeline using yml file.
